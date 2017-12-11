@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+express_pass=/usr/bin/express
+express_version=4.15.5
+node_path=/usr/bin/nodejs

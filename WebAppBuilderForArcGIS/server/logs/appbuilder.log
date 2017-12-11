@@ -1,0 +1,167 @@
+[2017-12-05 15:15:04.486] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets
+[2017-12-05 15:15:05.867] [INFO] repo - insert HTML.About
+[2017-12-05 15:15:05.869] [INFO] repo - insert HTML.AddData
+[2017-12-05 15:15:05.871] [INFO] app - Find 6 predfinded apps.
+[2017-12-05 15:15:05.872] [INFO] repo - insert HTML.Analysis
+[2017-12-05 15:15:05.873] [INFO] repo - insert HTML.AttributeTable
+[2017-12-05 15:15:05.874] [INFO] repo - insert HTML.BasemapGallery
+[2017-12-05 15:15:05.879] [INFO] repo - insert HTML.BatchAttributeEditor
+[2017-12-05 15:15:05.880] [INFO] repo - insert HTML.Bookmark
+[2017-12-05 15:15:05.881] [INFO] repo - insert HTML.Chart
+[2017-12-05 15:15:05.883] [INFO] repo - insert HTML.Coordinate
+[2017-12-05 15:15:05.886] [INFO] repo - insert HTML.CoordinateConversion
+[2017-12-05 15:15:05.890] [INFO] repo - insert HTML.Directions
+[2017-12-05 15:15:05.891] [INFO] repo - insert HTML.DistrictLookup
+[2017-12-05 15:15:05.893] [INFO] repo - insert HTML.Draw
+[2017-12-05 15:15:05.894] [INFO] repo - insert HTML.Edit
+[2017-12-05 15:15:05.896] [INFO] repo - insert HTML.ExtentNavigate
+[2017-12-05 15:15:05.896] [INFO] repo - insert HTML.Filter
+[2017-12-05 15:15:05.897] [INFO] repo - insert HTML.FullScreen
+[2017-12-05 15:15:05.899] [INFO] repo - insert HTML.GeoLookup
+[2017-12-05 15:15:05.900] [INFO] repo - insert HTML.Geoprocessing
+[2017-12-05 15:15:05.901] [INFO] repo - insert HTML.GridOverlay
+[2017-12-05 15:15:05.902] [INFO] repo - insert HTML.GroupFilter
+[2017-12-05 15:15:05.903] [INFO] repo - insert HTML.HomeButton
+[2017-12-05 15:15:05.903] [INFO] repo - insert HTML.ImageMeasurement
+[2017-12-05 15:15:05.904] [INFO] repo - insert HTML.IncidentAnalysis
+[2017-12-05 15:15:05.904] [INFO] repo - insert HTML.InfoSummary
+[2017-12-05 15:15:05.905] [INFO] repo - insert HTML.Infographic
+[2017-12-05 15:15:05.906] [INFO] repo - insert HTML.LayerList
+[2017-12-05 15:15:05.906] [INFO] repo - insert HTML.Legend
+[2017-12-05 15:15:05.907] [INFO] repo - insert HTML.Measurement
+[2017-12-05 15:15:05.907] [INFO] repo - insert HTML.MyLocation
+[2017-12-05 15:15:05.908] [INFO] repo - insert HTML.NearMe
+[2017-12-05 15:15:05.909] [INFO] repo - insert HTML.ObliqueViewer
+[2017-12-05 15:15:05.910] [INFO] repo - insert HTML.OverviewMap
+[2017-12-05 15:15:05.910] [INFO] repo - insert HTML.ParcelDrafter
+[2017-12-05 15:15:05.913] [INFO] repo - insert HTML.Print
+[2017-12-05 15:15:05.914] [INFO] repo - insert HTML.Query
+[2017-12-05 15:15:05.915] [INFO] repo - insert HTML.RelatedTableCharts
+[2017-12-05 15:15:05.916] [INFO] repo - insert HTML.ReportFeature
+[2017-12-05 15:15:05.917] [INFO] repo - insert HTML.ReviewerDashboard
+[2017-12-05 15:15:05.918] [INFO] repo - insert HTML.Scalebar
+[2017-12-05 15:15:05.918] [INFO] repo - insert HTML.Screening
+[2017-12-05 15:15:05.920] [INFO] repo - insert HTML.Search
+[2017-12-05 15:15:05.921] [INFO] repo - insert HTML.Select
+[2017-12-05 15:15:05.922] [INFO] repo - insert HTML.Share
+[2017-12-05 15:15:05.923] [INFO] repo - insert HTML.SituationAwareness
+[2017-12-05 15:15:05.924] [INFO] repo - insert HTML.SmartEditor
+[2017-12-05 15:15:05.924] [INFO] repo - insert HTML.Splash
+[2017-12-05 15:15:05.925] [INFO] repo - insert HTML.Stream
+[2017-12-05 15:15:05.926] [INFO] repo - insert HTML.SuitabilityModeler
+[2017-12-05 15:15:05.926] [INFO] repo - insert HTML.Summary
+[2017-12-05 15:15:05.927] [INFO] repo - insert HTML.Swipe
+[2017-12-05 15:15:05.928] [INFO] repo - insert HTML.TimeSlider
+[2017-12-05 15:15:05.929] [INFO] repo - insert HTML.ZoomSlider
+[2017-12-05 15:15:05.933] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/themes
+[2017-12-05 15:15:06.350] [INFO] repo - insert HTML.BillboardTheme
+[2017-12-05 15:15:06.351] [INFO] repo - insert HTML.BoxTheme
+[2017-12-05 15:15:06.352] [INFO] repo - insert HTML.DartTheme
+[2017-12-05 15:15:06.353] [INFO] repo - insert HTML.DashboardTheme
+[2017-12-05 15:15:06.355] [INFO] repo - insert HTML.FoldableTheme
+[2017-12-05 15:15:06.357] [INFO] repo - insert HTML.JewelryBoxTheme
+[2017-12-05 15:15:06.358] [INFO] repo - insert HTML.LaunchpadTheme
+[2017-12-05 15:15:06.359] [INFO] repo - insert HTML.PlateauTheme
+[2017-12-05 15:15:06.362] [INFO] repo - insert HTML.TabTheme
+[2017-12-05 15:15:06.363] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp3d/widgets
+[2017-12-05 15:15:06.882] [INFO] repo - insert HTML3D.3DFx
+[2017-12-05 15:15:06.883] [INFO] repo - insert HTML3D.About
+[2017-12-05 15:15:06.883] [INFO] repo - insert HTML3D.Compass
+[2017-12-05 15:15:06.885] [INFO] repo - insert HTML3D.BasemapGallery
+[2017-12-05 15:15:06.886] [INFO] repo - insert HTML3D.Environment
+[2017-12-05 15:15:06.887] [INFO] repo - insert HTML3D.Coordinate
+[2017-12-05 15:15:06.888] [INFO] repo - insert HTML3D.FullScreen
+[2017-12-05 15:15:06.888] [INFO] repo - insert HTML3D.Home
+[2017-12-05 15:15:06.889] [INFO] repo - insert HTML3D.LayerList
+[2017-12-05 15:15:06.889] [INFO] repo - insert HTML3D.Legend
+[2017-12-05 15:15:06.890] [INFO] repo - insert HTML3D.Search
+[2017-12-05 15:15:06.891] [INFO] repo - insert HTML3D.MyLocation
+[2017-12-05 15:15:06.891] [INFO] repo - insert HTML3D.Navigate
+[2017-12-05 15:15:06.892] [INFO] repo - insert HTML3D.Slides
+[2017-12-05 15:15:06.892] [INFO] repo - insert HTML3D.Splash
+[2017-12-05 15:15:06.893] [INFO] repo - insert HTML3D.ZoomSlider
+[2017-12-05 15:15:06.893] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp3d/themes
+[2017-12-05 15:15:07.155] [INFO] repo - insert HTML3D.BoxTheme
+[2017-12-05 15:15:07.156] [INFO] repo - insert HTML3D.BillboardTheme
+[2017-12-05 15:15:07.157] [INFO] repo - insert HTML3D.FoldableTheme
+[2017-12-05 15:15:07.158] [INFO] repo - insert HTML3D.DartTheme
+[2017-12-05 15:15:07.159] [INFO] repo - insert HTML3D.JewelryBoxTheme
+[2017-12-05 15:15:07.160] [INFO] repo - insert HTML3D.LaunchpadTheme
+[2017-12-05 15:15:07.161] [INFO] repo - insert HTML3D.TabTheme
+[2017-12-05 15:15:53.379] [INFO] server - No portal URL is set, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2017-12-05 15:15:53.493] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-05 16:13:28.314] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-05 16:30:51.202] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-05 16:31:36.809] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/jimu.js
+[2017-12-05 16:31:37.946] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/images
+[2017-12-05 16:31:38.000] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/libs
+[2017-12-05 16:31:38.017] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/index.html
+[2017-12-05 16:31:38.053] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/env.js
+[2017-12-05 16:31:38.053] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/simpleLoader.js
+[2017-12-05 16:31:38.054] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/init.js
+[2017-12-05 16:31:38.055] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/web.config
+[2017-12-05 16:31:38.056] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/dynamic-modules
+[2017-12-05 16:31:38.098] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/readme.html
+[2017-12-05 16:31:38.100] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/config-readme.txt
+[2017-12-05 16:31:38.115] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/configs
+[2017-12-05 16:31:38.132] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/.jshintrc
+[2017-12-05 16:31:38.135] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/.jshintignore
+[2017-12-05 16:31:38.156] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/3rd-party-license.txt
+[2017-12-05 16:31:38.207] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/themes/FoldableTheme
+[2017-12-05 16:31:38.384] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Scalebar
+[2017-12-05 16:31:38.453] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Search
+[2017-12-05 16:31:38.476] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Coordinate
+[2017-12-05 16:31:38.501] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/OverviewMap
+[2017-12-05 16:31:38.552] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/HomeButton
+[2017-12-05 16:31:38.562] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/MyLocation
+[2017-12-05 16:31:38.606] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/AttributeTable
+[2017-12-05 16:31:38.670] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Splash
+[2017-12-05 16:31:38.765] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/ZoomSlider
+[2017-12-05 16:31:38.806] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/ExtentNavigate
+[2017-12-05 16:31:38.839] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/FullScreen
+[2017-12-05 16:31:38.849] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Legend
+[2017-12-05 16:31:38.913] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/LayerList
+[2017-12-05 16:31:39.999] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:34:30.429] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:37:50.417] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:39:36.649] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-05 16:40:02.120] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:44:18.021] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:49:00.774] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-05 16:49:28.941] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:50:07.587] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-05 16:50:28.290] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2017-12-05 16:50:28.476] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:51:02.977] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-05 16:54:05.410] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-06 11:31:23.386] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets
+[2017-12-06 11:31:25.784] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/themes
+[2017-12-06 11:31:26.435] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp3d/widgets
+[2017-12-06 11:31:27.101] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp3d/themes
+[2017-12-06 11:31:27.709] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 11:34:53.401] [INFO] server - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2017-12-06 11:34:53.830] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-06 11:35:12.161] [INFO] server - Set isXT = true; /webappbuilder/stemapp/env.js
+[2017-12-06 11:35:20.006] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2017-12-06 11:35:20.283] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 11:35:27.945] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 11:39:42.642] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/AddData
+[2017-12-06 11:53:22.951] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Analysis
+[2017-12-06 11:55:57.688] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Geoprocessing
+[2017-12-06 11:55:57.895] [DEBUG] utils - copy /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets/Query
+[2017-12-06 12:29:40.093] [INFO] app - remove widget Geoprocessing from app 2
+[2017-12-06 12:29:40.222] [INFO] app - remove widget Query from app 2
+[2017-12-06 12:29:48.966] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 12:30:25.067] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 12:31:47.170] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 12:40:48.405] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/widgets
+[2017-12-06 12:40:53.832] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp/themes
+[2017-12-06 12:40:54.874] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp3d/widgets
+[2017-12-06 12:40:56.639] [INFO] repo - Read repository items: /home/gauri/eclipse-workspace/WebAppBuilderForArcGIS/client/stemapp3d/themes
+[2017-12-06 12:40:58.256] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 12:41:22.774] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 12:44:37.466] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 13:54:39.859] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 14:01:45.702] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 14:12:52.029] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js
+[2017-12-06 14:24:37.259] [INFO] server - Set isXT = true; /webappbuilder/apps/2/env.js

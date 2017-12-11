@@ -1,0 +1,115 @@
+{
+  "analysisTools": [
+    {
+      "name": "AggregatePoints",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Aggregate Points"
+    },
+    {
+      "name": "CalculateDensity",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Calculate Density"
+    },
+    {
+      "name": "ChooseBestFacilities",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Choose Best Facilities"
+    },
+    {
+      "name": "ConnectOriginsToDestinations",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "showOutputType": false,
+      "toolLabel": "Connect Origins to Destinations"
+    },
+    {
+      "name": "CreateWatersheds",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Create Watersheds"
+    },
+    {
+      "name": "ExtractData",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "toolLabel": "Extract Data"
+    },
+    {
+      "name": "InterpolatePoints",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Interpolate Points"
+    },
+    {
+      "name": "JoinFeatures",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Join Features"
+    },
+    {
+      "name": "MergeLayers",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Merge Layers"
+    },
+    {
+      "name": "OverlayLayers",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Overlay Layers"
+    },
+    {
+      "name": "PlanRoutes",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "showOutputType": false,
+      "toolLabel": "Plan Routes"
+    }
+  ]
+}

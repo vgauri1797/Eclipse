@@ -1,0 +1,64 @@
+package my.ab.app;
+
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Label;
+import javafx.scene.layout.StackPane;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.Rectangle;
+import javafx.stage.Stage;
+import com.esri.arcgisruntime.mapping.ArcGISMap;
+import com.esri.arcgisruntime.mapping.ArcGISScene;
+import com.esri.arcgisruntime.mapping.Basemap;
+import com.esri.arcgisruntime.mapping.view.MapView;
+import com.esri.arcgisruntime.mapping.view.SceneView;
+import com.esri.arcgisruntime.portal.Portal;
+import com.esri.arcgisruntime.portal.PortalItem;
+import com.esri.arcgisruntime.tasks.offlinemap.OfflineMapTask;
+
+public class MyMapApp extends Application {
+	private MapView mapView;
+	private SceneView sceneView;
+@Override
+public void start(Stage stage) throws Exception {
+// create stack pane and application scene
+	StackPane stackPane = new StackPane();
+	//Scene scene = new Scene(stackPane);
+	Scene fxscene=new Scene(stackPane);
+	ArcGISScene scene=new ArcGISScene();
+	scene.setBasemap(Basemap.createImagery());
+	sceneView.setArcGISScene(scene);
+	stackPane.getChildren().addAll(sceneView);
+	//create a ArcGISMap with the a Basemap instance with an Imagery base layer
+	//ArcGISMap map = new ArcGISMap(Basemap.Type.OPEN_STREET_MAP,28.7041,77.1025,6);
+	//set the map to be displayed in this view
+	//mapView = new MapView();
+	//mapView.setMap(map);
+	//add the map view to stack pane
+	stackPane.getChildren().addAll(sceneView);
+
+	/**
+	* Stops and releases all resources used in application.
+	*/
+
+// set title, size, and add scene to stage
+stage.setTitle("Display Map Sample");
+stage.setWidth(800);
+stage.setHeight(700);
+stage.setScene(fxscene);
+stage.show();
+}
+public void stop() throws Exception {
+	if (mapView != null) {
+	mapView.dispose();
+	}
+	}
+/**
+* Opens and runs application.
+*
+* @param args arguments passed to this application
+*/
+public static void main(String[] args) {
+Application.launch(args);
+}
+}
